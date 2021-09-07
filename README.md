@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshika
-- 👀 I’m interested in Android Development and solving mine as well as other's problems using my skills!
+- 👀 I’m interested in Android Development and enjoy problem solving!
 - 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on beginner level applications for now.
 
